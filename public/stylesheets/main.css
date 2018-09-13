@@ -1,0 +1,30 @@
+.thumbnail img {
+    width :100%;
+}
+.thmbnail{
+    padding :0;
+}
+
+.thumbnail .caption-full{
+    padding :9px;
+}
+
+ul #d{
+    display:inline;
+    flex-direction : row-reverse;
+}
+.delete{
+    display:inline;
+}
+
+#delete{
+    display:inline;
+}
+
+.pull-right{
+    text-align: right;
+}
+
+#name{
+    color: purple;
+}
